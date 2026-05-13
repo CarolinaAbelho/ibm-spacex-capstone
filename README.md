@@ -34,6 +34,7 @@ The main objective of this project is to identify factors that influence the suc
 ```text
 notebooks/   -> Jupyter notebooks for analysis and modeling
 dashboard/   -> Plotly Dash application
+datasets/    ->  datasets used for analysis, visualization, and machine learning
 ```
 
 ## Machine Learning Models
