@@ -41,8 +41,12 @@ presentation/ -> Final project presentation in PowerPoint and PDF format
 ## Folium Map Visualizations
 
 GitHub does not fully render interactive Folium map outputs directly inside Jupyter notebooks.
+The `folium_maps/` directory contains screenshots of the Folium visualizations developed during the project, including:
 
-Screenshots of the Folium visualizations used in this project are available in the `maps/` directory.
+* Falcon 9 launch site locations
+* Landing outcome visualizations
+* Launch site proximity analysis
+
 
 ## Machine Learning Models
 
