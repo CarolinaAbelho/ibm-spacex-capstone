@@ -36,7 +36,7 @@ notebooks/    -> Jupyter notebooks for analysis and modeling
 dashboard/    -> Plotly Dash application
 datasets/     ->  datasets used for analysis, visualization, and machine learning
 folium_maps/  -> Screenshots of Folium map visualizations generated during the project
-presentation/ -> Final project presentation in PowerPoint and PDF format
+Data Science Capstone Project Report.pdf -> Final project presentation and technical report
 ```
 ## Folium Map Visualizations
 
@@ -60,6 +60,10 @@ The following classification models were evaluated:
 ## Results
 
 The classification models achieved high accuracy on the Falcon 9 test dataset, with Logistic Regression and KNN producing the best overall results.
+
+## Final Presentation
+
+* [PDF Report](Data Science Capstone Project Report.pdf)
 
 ## Author
 
