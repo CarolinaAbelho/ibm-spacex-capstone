@@ -32,10 +32,17 @@ The main objective of this project is to identify factors that influence the suc
 ## Repository Structure
 
 ```text
-notebooks/   -> Jupyter notebooks for analysis and modeling
-dashboard/   -> Plotly Dash application
-datasets/    ->  datasets used for analysis, visualization, and machine learning
+notebooks/    -> Jupyter notebooks for analysis and modeling
+dashboard/    -> Plotly Dash application
+datasets/     ->  datasets used for analysis, visualization, and machine learning
+folium_maps/  -> Screenshots of Folium map visualizations generated during the project
+presentation/ -> Final project presentation in PowerPoint and PDF format
 ```
+## Folium Map Visualizations
+
+GitHub does not fully render interactive Folium map outputs directly inside Jupyter notebooks.
+
+Screenshots of the Folium visualizations used in this project are available in the `maps/` directory.
 
 ## Machine Learning Models
 
@@ -48,7 +55,7 @@ The following classification models were evaluated:
 
 ## Results
 
-The models achieved strong predictive performance for Falcon 9 landing outcomes, with Logistic Regression and KNN producing the highest accuracies.
+The classification models achieved high accuracy on the Falcon 9 test dataset, with Logistic Regression and KNN producing the best overall results.
 
 ## Author
 
