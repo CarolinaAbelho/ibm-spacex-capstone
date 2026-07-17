@@ -69,7 +69,7 @@ The classification models achieved high accuracy on the Falcon 9 test dataset, w
 
 ## Final Presentation
 
-* [PDF Report](Data Science Capstone Project Report.pdf)
+* [Final Presentation](./Data%20Science%20Capstone%20Project%20Report.pdf)
 
 ## Author
 
