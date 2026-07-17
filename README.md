@@ -1,8 +1,14 @@
-# SpaceX Falcon 9 Landing Prediction
+# SpaceX Data Science Capstone
+
+This repository contains the final capstone project completed as part of the [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science).
+
+The project follows a course-provided scenario based on SpaceX Falcon 9 launch data. It was completed for educational purposes and was not commissioned by SpaceX.
 
 ## Project Overview
 
-This capstone project analyzes SpaceX Falcon 9 launch data to explore launch outcomes and predict first stage landing success.
+The project explores historical Falcon 9 launch data and evaluates classification models for predicting first-stage landing outcomes.
+
+The project includes:
 
 The project includes:
 
